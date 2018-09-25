@@ -1,0 +1,27 @@
+_repo: Dokumentoj-de-Esperanto-Informilo-pri-la-historio-kaj-organizo-de-la-Esperanta-movado_57184
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Möbusz, Albin
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '49234'
+    url: http://www.gutenberg.org/2009/agents/49234
+    wikipedia: https://eo.wikipedia.org/wiki/Albin_Friedrich_Richard_M%C3%B6busz
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2018-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57184'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto -- History'
+- GITenberg
+title: 'Dokumentoj de Esperanto
+
+  Informilo pri la historio kaj organizo de la Esperanta movado'
+url: http://www.gutenberg.org/ebooks/57184
